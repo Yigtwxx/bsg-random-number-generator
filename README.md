@@ -122,7 +122,15 @@ Contributions are welcome! If you have ideas on how to extract more entropy from
 
 ---
 
+## 📬 Contact
+
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi%C4%9Fit-erdo%C4%9Fan-ba7a64294)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yigiterdogan023@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Yigtwxx)
+
+**Yiğit Erdoğan**
 
 **Made with ❤️ and Chaos**
 
