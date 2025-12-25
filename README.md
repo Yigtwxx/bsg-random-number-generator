@@ -67,6 +67,8 @@ We've included a rich terminal-based demo to visualize the output distribution.
 python demo.py
 ```
 
+![Demo Output](demo_output.png)
+
 *Produces a colorful histogram and statistical summary in your terminal.*
 
 ### Integrating in Python Code
