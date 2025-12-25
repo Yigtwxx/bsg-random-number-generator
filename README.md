@@ -67,7 +67,8 @@ We've included a rich terminal-based demo to visualize the output distribution.
 python demo.py
 ```
 
-![Demo Output](demo_output.png)
+
+<img width="797" height="698" alt="Ekran görüntüsü 2025-12-25 144246" src="https://github.com/user-attachments/assets/a7eb20d6-0f9d-462e-a058-214c98c31e7f" />
 
 *Produces a colorful histogram and statistical summary in your terminal.*
 
