@@ -17,6 +17,7 @@
 
 ---
 
+
 ## 🧐 Theory: The Chaos of $3n+1$
 
 The **Collatz Conjecture** (also known as the Ulam conjecture, Kakutani's problem, or the Hailstone sequence) is a mathematical problem that concerns a sequence defined as follows:
