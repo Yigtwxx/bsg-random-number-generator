@@ -122,4 +122,6 @@ basit istatistiksel testlerle davranışı incelenmiştir.
 Algoritma eğitimsel ve deneysel amaçlar için uygun olup,
 kaotik sistemlerin rastgelelik üretimindeki rolünü göstermektedir.
 
-```
+
+
+<img width="640" height="800" alt="image" src="https://github.com/user-attachments/assets/e5c58ec1-336a-43cc-a843-ce89f7a07a0a" />
