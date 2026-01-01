@@ -1,0 +1,66 @@
+# <Bsg-Random-Number-Generator>
+
+## 1) Amaç
+Bu çalışma, <kısa amaç> için <yöntem/algoritma> tabanlı bir <üretici/çözücü/analiz> sunar.
+
+## 2) Girdi / Çıktı
+- **Girdi(ler):**
+  - <param1>: <açıklama>
+  - <param2>: <açıklama>
+- **Çıktı(lar):**
+  - <çıktı1>: <açıklama>
+
+## 3) Sözde Kod (Pseudocode)
+ALGORİTMA <Fonksiyon/Sınıf Adı>
+GİRDİ: <...>
+ÇIKTI: <...>
+BAŞLAT:
+  <başlangıç durumları>
+DÖNGÜ:
+  <ana adımlar>
+  <koşullar>
+  <güncellemeler>
+DÖNDÜR: <sonuç>
+SON
+
+## 4) Çalışma Mantığı (Özet + Ana Sütunlar)
+Bu algoritma/uygulama, <kısa açıklama> prensiplerini birleştirerek çalışır.
+Temel mantık şu **4 ana sütun** üzerine kuruludur:
+
+1. **Başlangıç / Tohumlama / Kurulum**
+   - <seed / initial state / config>
+
+2. **Ana Motor / İterasyon / Dönüşüm**
+   - <ana kural, iterasyon, adım fonksiyonu>
+
+3. **Karıştırma / Etkileşim / Çeşitlilik Mekanizması**
+   - <XOR / hash / mixing / ek adımlar>
+
+4. **Filtreleme / Dengeleme / Doğrulama**
+   - <deskewing / normalization / constraints>
+
+## 5) Parametreler ve Seçimler
+- <param> neden var, etkisi ne?
+- Varsayılanlar: <...>
+
+## 6) Karmaşıklık (Opsiyonel)
+- Zaman: O(<...>)
+- Bellek: O(<...>)
+
+## 7) Test ve Analiz
+> Not: Testlerin anlamlı olması için örneklem boyutu <N> seçilmiştir.
+
+| Test Adı | Ölçülen Değer | P-Değeri | Sonuç | Açıklama |
+|---|---:|---:|---|---|
+| Ki-Kare (Frekans) | <...> | <...> | <...> | <...> |
+| Runs (Dizi) | <...> | <...> | <...> | <...> |
+| Seri (Bit Çiftleri / vb.) | <...> | <...> | <...> | <...> |
+
+**Teknik Yorum:**
+- P-değeri yorumu: <...>
+- Denge: <...>
+- Örüntü/periyot: <...>
+
+## 8) Kullanım
+```python
+# kısa kullanım örneği
